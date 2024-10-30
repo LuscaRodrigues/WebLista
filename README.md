@@ -1,6 +1,6 @@
 # WebLista
 Lista de Compra
-Alunos:Girleandro Wilder Guedes da Silva e Lucas Rodrigues Silva
+Alunos: Girleandro Wilder Guedes da Silva e Lucas Rodrigues Silva
 
 
 ##Casos de Uso
